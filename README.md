@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Kotlin and jetpack compose**
 
-- 💬 Ask me about **Java, problem solving and android development**
+- 💬 Ask me about **Java, problem solving, android development,movies and life in general**
 
 - 📫 How to reach me **Mshreyansh121@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I watch movies and shows almost everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
