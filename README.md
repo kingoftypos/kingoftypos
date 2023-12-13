@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Mshreyansh121@gmail.com**
 
-- ⚡ Fun fact **I binge watch shows and movies **
+- ⚡ Fun fact **I binge watch shows and movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
