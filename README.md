@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingofypos" alt="kingofypos" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin and jetpack compose**
+- 🌱 I’m currently exploring **the field of web-development**
 
-- 💬 Ask me about **Java, problem solving, android development,movies and life in general**
+- 💬 Ask me about **problem solving, android development,movies and life in general**
 
 - 📫 How to reach me **Mshreyansh121@gmail.com**
 
