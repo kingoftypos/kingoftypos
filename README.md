@@ -21,7 +21,7 @@
             width="30" height="25" /></a>
      <a href="https://leetcode.com/kingoftypos/" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-            width="34" /></a>
+            width="30" height="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
