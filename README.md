@@ -19,6 +19,9 @@
   <a href="https://linkedin.com/in/shreyansh-mishra-007926240" target="_blank" rel="noreferrer"> <kbd> <img
              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
             width="30" height="25" /></a>
+     <a href="https://leetcode.com/kingoftypos/" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+            width="34" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
