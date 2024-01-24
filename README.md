@@ -22,6 +22,9 @@
      <a href="https://leetcode.com/kingoftypos/" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
             width="30" height="25" /></a>
+        <a href="https://www.codechef.com/users/kingoftypos" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
+            width="30" height="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
