@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">An Aspiring Software Developer Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingofypos&label=Profile%20views&color=0e75b6&style=flat" alt="kingofypos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingoftypos&label=Profile%20views&color=0e75b6&style=flat" alt="kingoftypos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingofypos" alt="kingofypos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingoftypos" alt="kingoftypos" /></a> </p>
 
 - 🌱 I’m currently exploring **the field of web-development**
 
