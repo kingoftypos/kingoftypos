@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **the field of web-development**
 
-- 💬 Ask me about **problem solving, android development,movies and life in general**
+- 💬 Ask me about **problem solving, android/web development,movies and life in general**
 
 - 📫 How to reach me **Mshreyansh121@gmail.com**
 
