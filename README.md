@@ -15,16 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shreyansh-mishra-007926240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyansh-mishra-007926240" height="30" width="40" /></a>
 <a href="https://instagram.com/mshreyansh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshreyansh121" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shreyansh-mishra-007926240" target="_blank" rel="noreferrer"> <kbd> <img
-             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="30" height="25" /></a>
-     <a href="https://leetcode.com/kingoftypos" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-            width="30" height="25" /></a>
-        <a href="https://www.codechef.com/users/kingoftypos" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
-            width="30" height="25" /></a>
+<a href="https://www.codechef.com/users/kingoftypos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kingoftypos" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kingoftypos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingoftypos" height="30" width="40" /></a>
+<a href="https://discord.gg/kingoftypos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kingoftypos_" height="30" width="40" /></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
