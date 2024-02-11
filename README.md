@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/shreyansh-mishra-007926240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyansh-mishra-007926240" height="30" width="40" /></a>
 <a href="https://instagram.com/mshreyansh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshreyansh121" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/" target="blank"><img align="center" src="Docs/icons8-codechef.svg" alt="kingoftypos" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingoftypos" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kingoftypos" target="blank"><img align="center" src="Docs/icons8-codechef.svg" alt="kingoftypos" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kingoftypos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingoftypos" height="30" width="40" /></a>
 <a href="https://discord.gg/kingoftypos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kingoftypos_" height="30" width="40" /></a>
 </p>
 
