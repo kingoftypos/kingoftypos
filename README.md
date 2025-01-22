@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingoftypos" alt="kingoftypos" /></a> </p>
 
-- 🌱 I’m currently exploring **the field of web-development**
+- 🌱 I’m currently exploring **Competitive programming and system design**
 
 - 💬 Ask me about **problem solving, android/web development,movies and life in general**
 
